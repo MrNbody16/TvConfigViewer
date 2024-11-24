@@ -1,0 +1,2 @@
+ss://YWVzLTI1Ni1nY206eHJCYmJVanFWU3lTOEYyMm5Eb0JGT1VGNTJwRktrK3ovRWVuRE0wWFRvaz0=@videos.repress.ir:8080#ahmez-ss
+vless://fdb39d61-f7d4-44d5-9b17-dc53a90152cf@videos.repress.ir:8180?encryption=none&security=none&type=tcp&headerType=http&host=virgool.io#ahmez-de
